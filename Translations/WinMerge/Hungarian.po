@@ -115,10 +115,10 @@ msgid "&None"
 msgstr "&Nincs"
 
 msgid "&Vertical"
-msgstr ""
+msgstr "&Függőleges"
 
 msgid "&Horizontal"
-msgstr ""
+msgstr "&Vízszintes"
 
 #, c-format
 msgid "&Previous Page"
@@ -218,7 +218,7 @@ msgstr ""
 
 #, c-format
 msgid "New (&3 panes)"
-msgstr ""
+msgstr "Új (&3 paneles)"
 
 #, c-format
 msgid "&Open...\tCtrl+O"
@@ -304,7 +304,7 @@ msgstr "&Bővítmények"
 
 #, c-format
 msgid "P&lugin Settings..."
-msgstr ""
+msgstr "Bő&vítmény beállítások..."
 
 #, c-format
 msgid "Ma&nual Prediffer"
@@ -351,7 +351,7 @@ msgstr "Elrendezés &függőlegesen"
 
 #, c-format
 msgid "&Cascade"
-msgstr "&Felosztás"
+msgstr "M&ozaik"
 
 #, c-format
 msgid "&Help"
@@ -363,15 +363,15 @@ msgstr "&WinMerge Súgó\tF1"
 
 #, c-format
 msgid "R&elease Notes"
-msgstr ""
+msgstr "&Változási jegyzék"
 
 #, c-format
 msgid "&Translations"
-msgstr ""
+msgstr "&Fordítások"
 
 #, c-format
 msgid "C&onfiguration"
-msgstr ""
+msgstr "&Konfiguráció"
 
 #, c-format
 msgid "&GNU General Public License"
@@ -383,7 +383,7 @@ msgstr "&A Winmerge névjegye..."
 
 #, c-format
 msgid "&Read-only"
-msgstr ""
+msgstr "&Csak olvasható"
 
 #, c-format
 msgid "L&eft Read-only"
@@ -509,7 +509,7 @@ msgstr "Kijelöltek frissítése\tCtrl+F5"
 
 #, c-format
 msgid "&Merge"
-msgstr "&Olvasztás"
+msgstr "&Egyesítés"
 
 #, c-format
 msgid "Co&mpare\tEnter"
@@ -610,11 +610,11 @@ msgstr "Sorvégek átalakítása"
 
 #, c-format
 msgid "Mer&ge Mode\tF9"
-msgstr "&Olvasztási mód\tF9"
+msgstr "E&gyesítési mód\tF9"
 
 #, c-format
 msgid "Re&load\tCtrl+F5"
-msgstr ""
+msgstr "Ú&jratöltés"
 
 #, c-format
 msgid "&File Encoding..."
@@ -662,7 +662,7 @@ msgstr "&Csere...\tCtrl+H"
 
 #, c-format
 msgid "&Marker...\tCtrl+Shift+M"
-msgstr ""
+msgstr "&Jelölő...\tCtrl+Shift+M"
 
 #, c-format
 msgid "Advanced"
@@ -3825,15 +3825,15 @@ msgid "Private Build: %1"
 msgstr ""
 
 msgid "Your software is up to date."
-msgstr ""
+msgstr "A program naprakész"
 
 #, c-format
 msgid "A new version of WinMerge is available.\n%1 is now available (you have %2). Would you like to download it now?"
-msgstr ""
+msgstr "A WinMerge új verziója érhető el.\núj: %1 (jelenlegi: %2). Letölti most?"
 
 #, c-format
 msgid "Failed to download latest version information"
-msgstr ""
+msgstr "Nem sikerült az új verzió elérhetőségének ellenőrzése"
 
 #, c-format
 msgid "Plugin Settings"
@@ -3860,7 +3860,7 @@ msgstr ""
 
 #, c-format
 msgid "Disabled"
-msgstr ""
+msgstr "Letiltva"
 
 #, c-format
 msgid "From file system"
@@ -3907,22 +3907,22 @@ msgid "Enable &Auto Max Width"
 msgstr ""
 
 msgid "Frhed is not installed."
-msgstr ""
+msgstr "A Frhed nincs telepítve."
 
 #, c-format
 msgid "%1 does not exist. Do you want to create it?"
-msgstr ""
+msgstr "%1 nem létezik. Létre akarja hozni?"
 
 #, c-format
 msgid "Failed to create folder."
-msgstr ""
+msgstr "A mappa létrehozása sikertelen"
 
 #, c-format
 msgid "You can specify the following parameters to the path:\n$file: Path name of the current file\n$linenum: Line number of the current cursor position"
 msgstr ""
 
 msgid "default"
-msgstr ""
+msgstr "alapértelmezett"
 
 msgid "minimal"
 msgstr ""
@@ -4055,7 +4055,7 @@ msgid "On the other panel"
 msgstr ""
 
 msgid "<Edit here>"
-msgstr ""
+msgstr "<Szerkesztés itt>"
 
 msgid "No differences to select found"
 msgstr ""
