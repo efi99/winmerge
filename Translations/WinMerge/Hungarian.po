@@ -2939,15 +2939,15 @@ msgstr "Jobbról balra (%1)"
 
 #, c-format
 msgid "Right to Middle (%1)"
-msgstr ""
+msgstr "Jobbról középre (%1)"
 
 #, c-format
 msgid "Middle to Left (%1)"
-msgstr ""
+msgstr "Középről balra (%1)"
 
 #, c-format
 msgid "Middle to Right (%1)"
-msgstr ""
+msgstr "Középről jobbra (%1)"
 
 #, c-format
 msgid "Left to Right (%1)"
@@ -2955,7 +2955,7 @@ msgstr "Balról jobbra (%1)"
 
 #, c-format
 msgid "Left to Middle (%1)"
-msgstr ""
+msgstr "Balról középre (%1)"
 
 #, c-format
 msgid "Left to... (%1)"
@@ -2963,7 +2963,7 @@ msgstr "Balról... (%1)"
 
 #, c-format
 msgid "Middle to... (%1)"
-msgstr ""
+msgstr "Középről... (%1)"
 
 #, c-format
 msgid "Right to... (%1)"
@@ -3110,19 +3110,19 @@ msgstr "Jobb oldali méret"
 
 #, c-format
 msgid "Middle Size"
-msgstr ""
+msgstr "Középső méret"
 
 #, c-format
 msgid "Right Size (Short)"
-msgstr ""
+msgstr "Jobb oldali méret(rövid)"
 
 #, c-format
 msgid "Left Size (Short)"
-msgstr ""
+msgstr "Bal oldali méret(rövid)"
 
 #, c-format
 msgid "Middle Size (Short)"
-msgstr ""
+msgstr "Bal oldali méret (rövid)"
 
 #, c-format
 msgid "Left Creation Time"
@@ -3134,7 +3134,7 @@ msgstr "Jobb oldali létrehozási idő"
 
 #, c-format
 msgid "Middle Creation Time"
-msgstr ""
+msgstr "Középső létrehozási idő"
 
 #, c-format
 msgid "Newer File"
@@ -4055,7 +4055,7 @@ msgid "On the other panel"
 msgstr ""
 
 msgid "<Edit here>"
-msgstr ""
+msgstr "<Szerkesztés itt>"
 
 msgid "No differences to select found"
 msgstr ""
