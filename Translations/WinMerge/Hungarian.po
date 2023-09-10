@@ -1174,10 +1174,10 @@ msgid "Right Shell menu"
 msgstr "Jobb intéző menü"
 
 msgid "Both Shell menu"
-msgstr ""
+msgstr "Mindkét intéző menü"
 
 msgid "All Shell menu"
-msgstr ""
+msgstr "Minden intéző menü"
 
 #, c-format
 msgid "Copy"
