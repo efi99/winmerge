@@ -273,7 +273,7 @@ msgid "Fit to Window"
 msgstr "Ablakhoz igazít"
 
 msgid "&Event Sync"
-msgstr ""
+msgstr "&Esemény szinkr."
 
 msgid "&Enabled"
 msgstr "&Engedélyezve"
@@ -4803,13 +4803,13 @@ msgid "Comparing..."
 msgstr "Összehasonlítás..."
 
 msgid "Zoom:"
-msgstr ""
+msgstr "Átméretezés:"
 
 msgid "Prettification"
-msgstr "Megjelenés optimalizálás"
+msgstr "Megjelenés optimalizálása"
 
 msgid "Content Extraction"
-msgstr "Tartalom kibontás"
+msgstr "Tartalom kibontása"
 
 msgid "Preview"
 msgstr "Előnézet"
